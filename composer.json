@@ -1,6 +1,7 @@
 {
     "name": "sejurplacut/openweather",
-    "description": "",
+    "license": "MIT",
+    "description": "Openweather API integration",
     "authors": [
         {
             "name": "Tudor-Dan Ravoiu",
@@ -9,7 +10,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
+        "illuminate/support": "4.2.*",
+        "guzzlehttp/guzzle": "~5.0"
     },
     "autoload": {
         "psr-0": {
