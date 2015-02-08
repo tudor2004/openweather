@@ -16,7 +16,7 @@ Using composer:
 
 2. Add the following to your config/app.php file in the aliases array
 
-        'OpenWeather' => 'Sejurplacut\OpenWeather\Facades\OpenWeather'
+        'OpenWeather' => 'Sejurplacut\OpenWeather\Facades\Openweather'
 
 3. Publish configuration file:
 
